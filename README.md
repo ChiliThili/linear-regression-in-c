@@ -1,2 +1,3 @@
-# linear-regression-in-c
-linear regressions are algorithms that are good for predicting new values
+# How to compile
+
+`gcc main.c average.h average.c standard_devaition.h standard_devaition.c -lm -o main && ./main`
