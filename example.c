@@ -8,7 +8,7 @@ int main(){
     //The length of the Arrays
     int tdx_l = sizeof(array_x) / sizeof(double);
     int tdy_l = sizeof(array_y) / sizeof(double);
-    //This is the linearregression
+    //This is the linear regression
     double examplelr = linreg(array_x,array_y,tdx_l,tdy_l,10.0);
     printf("The Point 10 has the Y Point %f\n", examplelr);
     return 0;
