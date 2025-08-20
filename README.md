@@ -4,4 +4,4 @@
 
 or  
 
-make test
+`make test`
